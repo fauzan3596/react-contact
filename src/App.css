@@ -36,7 +36,9 @@ img {
 }
 
 .contact-item-image img {
+  height: 64px;
   width: 64px;
+  object-fit: cover;
   border-radius: 50%;
 }
 
